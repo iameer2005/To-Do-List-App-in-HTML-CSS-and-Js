@@ -1,6 +1,7 @@
 # To-Do-List-App-in-HTML-CSS-and-Js
 A sleek and minimalistic To-Do List Web App built using HTML, CSS, and JavaScript. This app helps users organize their daily tasks efficiently with progress tracking and persistent data storage.
 
+
 Features : 
 🚀 Features
 ✅ Add New Task
