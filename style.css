@@ -167,7 +167,7 @@ h1{
 }
 
 #task-list li .checkbox:checked{
-    background: rgb(17, 16, 114);
+    background: rgb(6, 5, 74);
     transform: scale(1.1);
 }
 
